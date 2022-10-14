@@ -1,0 +1,21 @@
+.Cat-background {
+  background-color:  #3D594F;
+  color: white;
+}
+.cat-img {
+  border: 5px none white;
+  border-radius: 50%;
+}
+.p {
+  font-size: 40em;
+}
+.catbtn {
+  background-color:  #3D594F;
+  color: white;
+}
+.catnav {
+    color: white;
+}
+.catfont {
+  font-size: 30px;
+}
